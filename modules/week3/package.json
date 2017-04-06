@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "js3030-week3@^0.1.0",
+        "scope": null,
+        "escapedName": "js3030-week3",
+        "name": "js3030-week3",
+        "rawSpec": "^0.1.0",
+        "spec": ">=0.1.0 <0.2.0",
+        "type": "range"
+      },
+      "/Users/linla03/workspace/projects/class/release/code"
+    ]
+  ],
+  "_from": "js3030-week3@>=0.1.0 <0.2.0",
+  "_id": "js3030-week3@0.1.15",
+  "_inCache": true,
+  "_location": "/js3030-week3",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/js3030-week3-0.1.15.tgz_1490663152693_0.5355878560803831"
+  },
+  "_npmUser": {
+    "name": "spiritway",
+    "email": "hello@spiritway.co"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "js3030-week3@^0.1.0",
+    "scope": null,
+    "escapedName": "js3030-week3",
+    "name": "js3030-week3",
+    "rawSpec": "^0.1.0",
+    "spec": ">=0.1.0 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/js3030-week3/-/js3030-week3-0.1.15.tgz",
+  "_shasum": "ed418294c56ff725c9883c3b3613d350b95c1011",
+  "_shrinkwrap": null,
+  "_spec": "js3030-week3@^0.1.0",
+  "_where": "/Users/linla03/workspace/projects/class/release/code",
+  "author": {
+    "name": "Mike Whitfield",
+    "url": "http://mikewhitfield.org"
+  },
+  "dependencies": {
+    "node-games": "^3.0.3"
+  },
+  "description": "JavaScript 3030 Course",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "coveralls": "~2.11.8",
+    "eslint": "~3.13.*",
+    "istanbul": "~0.4.2",
+    "jasmine": "^2.5.2",
+    "jsdoc": "~3.4.0",
+    "rimraf": "~2.5.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "ed418294c56ff725c9883c3b3613d350b95c1011",
+    "tarball": "https://registry.npmjs.org/js3030-week3/-/js3030-week3-0.1.15.tgz"
+  },
+  "gitHead": "3cf991b32141cf44c66208acb91fd81d85cbf5d3",
+  "homepage": "https://bitbucket.org/michaelgwhitfield/javascript3030#readme",
+  "keywords": [],
+  "maintainers": [
+    {
+      "name": "spiritway",
+      "email": "hello@spiritway.co"
+    }
+  ],
+  "name": "js3030-week3",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/michaelgwhitfield/javascript3030.git"
+  },
+  "scripts": {
+    "run-tests": "node node_modules/spirittests/index.js",
+    "run-testserver": "node node_modules/spirittests/test.server.js"
+  },
+  "version": "0.1.15"
+}
