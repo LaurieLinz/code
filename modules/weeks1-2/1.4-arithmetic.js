@@ -2,6 +2,8 @@
  * Arithmetic, lesson 1.4
  * @author Mike Whitfield
  * 
+ * 
+ * 
  * In this module, I'd like you to code the pythagorean theorm.  To do this,
  * you'll look up the Math library on the MDN website (#1).  Recall that the theorem
  * states that a^2 * b^2 == c^2.
